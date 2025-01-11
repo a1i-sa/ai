@@ -25,7 +25,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+## Project Purpose
+the purpose is to send the request to ai and get response from it , later we can develop it even more and monitor the client's requests. 
 ## Project setup
 
 ```bash
